@@ -5,7 +5,7 @@ export default function Data() {
     <>
       <div className="home__data">
         <h1 className="home__title">
-          MohamedAshraf
+          Mohamed Ashraf
           <svg
             width="36"
             height="36"
