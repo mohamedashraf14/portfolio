@@ -12,19 +12,19 @@ export const projectsData = [
   {
     id: 2,
     image: Work2,
-    title: "Shopping Hub",
+    title: "Fresh Cart",
     category: "React",
-    demo: "https://mohamedtarek1911.github.io/commerce/",
-    repo: "https://github.com/mohamedtarek1911/commerce",
+    demo: "https://mohamedashraf14.github.io/freshcart/",
+    repo: "https://github.com/mohamedashraf14/freshcart",
   },
 
   {
     id: 4,
     image: work11,
-    title: "NoxesMovies",
+    title: "Noxe Movies",
     category: "React",
-    demo: "https://mohamedtarek1911.github.io/NoxesMovies/",
-    repo: "https://github.com/mohamedtarek1911/NoxesMovies",
+    demo: "https://mohamedashraf14.github.io/movie-db/",
+    repo: "https://github.com/mohamedashraf14/movie-db",
   },
 
   {
@@ -58,8 +58,8 @@ export const projectsData = [
     image: work10,
     title: "Notes",
     category: "React",
-    demo: "https://mohamedtarek1911.github.io/Note/",
-    repo: "https://github.com/mohamedtarek1911/Note",
+    demo: "https://mohamedashraf14.github.io/notes/",
+    repo: "https://github.com/mohamedashraf14/notes/tree/master",
   },
   {
     id: 11,

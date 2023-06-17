@@ -37,6 +37,7 @@ export default function Works() {
               className={`${
                 Active === index ? "active-work" : ""
               } "work__item"`}
+              style={{ cursor: "pointer" }}
             >
               {item.name}
             </span>
