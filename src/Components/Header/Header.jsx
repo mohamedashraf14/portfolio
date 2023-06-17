@@ -111,7 +111,7 @@ function Header() {
                       : "nav__link "
                   }
                 >
-                  <i className="uil uil-scenery nav__icon"></i>Portofolio
+                  <i className="uil uil-scenery nav__icon"></i>Portfolio
                 </a>
               </li>
               <li className="nav__item">

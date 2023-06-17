@@ -25,13 +25,7 @@ export default function Footer() {
             </li>
           </ul>
           <div className="footer__social">
-            <a
-              href="https://www.instagram.com/"
-              target={"_blank"}
-              className="footer__social-link"
-            >
-              <i class="uil uil-instagram"></i>
-            </a>
+            
             <a
               href="https://github.com/mohamedtarek1911"
               target={"_blank"}
@@ -48,7 +42,7 @@ export default function Footer() {
             </a>
           </div>
           <span className="footer__copy">
-            &#169; Mohamed Tarek. All rigths reserved
+            &#169; Mohamed Ashraf. All rigths reserved
           </span>
         </div>
       </footer>

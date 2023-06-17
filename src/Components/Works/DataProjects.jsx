@@ -1,26 +1,14 @@
 import work1 from "../../assets/Projects/Bankist.jpg";
-import Work2 from "../../assets/Projects/Commerce.jpg";
+import Work2 from "../../assets/Projects/FreshCart.jpg";
 import work3 from "../../assets/Projects/Cruds.jpg";
 import work4 from "../../assets/Projects/Deflio.jpg";
-import work5 from "../../assets/Projects/E-mart.jpg";
-import work6 from "../../assets/Projects/E-medicine.jpg";
 import Work7 from "../../assets/Projects/Guess.jpg";
-import work8 from "../../assets/Projects/Mapty.jpg";
-import work9 from "../../assets/Projects/Natours.jpg";
 import work10 from "../../assets/Projects/Notes.jpg";
 import work11 from "../../assets/Projects/NoxesMovies.jpg";
 import work12 from "../../assets/Projects/Omnifood.jpg";
 import work13 from "../../assets/Projects/Weather.jpg";
-
+import work14 from "../../assets/Projects/yumi.jpg";
 export const projectsData = [
-  {
-    id: 1,
-    image: work9,
-    title: "Natours",
-    category: "HTML&CSS",
-    demo: "https://mohamedtarek1911.github.io/Natours/",
-    repo: "https://github.com/mohamedtarek1911/Natours",
-  },
   {
     id: 2,
     image: Work2,
@@ -29,14 +17,7 @@ export const projectsData = [
     demo: "https://mohamedtarek1911.github.io/commerce/",
     repo: "https://github.com/mohamedtarek1911/commerce",
   },
-  {
-    id: 3,
-    image: work6,
-    title: "E-medicine",
-    category: "React",
-    demo: "https://mohamedtarek1911.github.io/E-madicine2/",
-    repo: "https://github.com/mohamedtarek1911/E-madicine2",
-  },
+
   {
     id: 4,
     image: work11,
@@ -46,14 +27,6 @@ export const projectsData = [
     repo: "https://github.com/mohamedtarek1911/NoxesMovies",
   },
 
-  {
-    id: 5,
-    image: work5,
-    title: "E-mart",
-    category: "React",
-    demo: "https://mohamedtarek1911.github.io/E-mart/",
-    repo: "https://github.com/mohamedtarek1911/E-mart",
-  },
   {
     id: 6,
     image: work12,
@@ -70,14 +43,6 @@ export const projectsData = [
     category: "JavaScript",
     demo: "https://mohamedtarek1911.github.io/guess-my-number/",
     repo: "https://github.com/mohamedtarek1911/guess-my-number",
-  },
-  {
-    id: 8,
-    image: work8,
-    title: "Mapty",
-    category: "JavaScript",
-    demo: "https://mohamedtarek1911.github.io/Mapty/",
-    repo: "https://github.com/mohamedtarek1911/Mapty",
   },
 
   {
@@ -116,6 +81,14 @@ export const projectsData = [
     id: 13,
     image: work13,
     title: "Weather",
+    category: "JavaScript",
+    demo: "https://mohamedtarek1911.github.io/weather-now/",
+    repo: "https://github.com/mohamedtarek1911/weather-now",
+  },
+  {
+    id: 14,
+    image: work14,
+    title: "Yummi",
     category: "JavaScript",
     demo: "https://mohamedtarek1911.github.io/weather-now/",
     repo: "https://github.com/mohamedtarek1911/weather-now",

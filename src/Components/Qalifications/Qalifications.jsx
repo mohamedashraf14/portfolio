@@ -108,8 +108,8 @@ export default function Qalifications() {
                   <span className="qali__line"></span>
                 </div>
                 <div>
-                  <h3 className="qali__title">Faculty of engineering</h3>
-                  <span className="qali__subtitle">Rabat</span>
+                  <h3 className="qali__title">Faculty of Engineering</h3>
+                  <span className="qali__subtitle">Cairo</span>
                   <div className="qali__calender">
                     <i class="uil uil-calendar-alt"></i> 2015-2020
                   </div>

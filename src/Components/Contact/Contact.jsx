@@ -45,7 +45,7 @@ export default function Contact() {
                 <span className="contact__card-data">Zahraa El Maadi,Cairo,Egypt</span>
                 <a
                   target={"_blank"}
-                  href="https://goo.gl/maps/mWGJ9yEqF52VuDtf9"
+                
                   className="contact__button"
                 >
                   My location{" "}

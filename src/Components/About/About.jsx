@@ -14,7 +14,7 @@ export default function About() {
           <div className="about__data">
             <Info />
             <p className="about__desc">
-            Looking for a career opportunity in the field of web development (As a front- end) and want to
+            Looking for a career opportunity in the field of web development (as a front-end developer) and want to
 associate with an organization to provide my skills, improve myself professionally and contribute
 to the growth of the organization with quality services.
             </p>
