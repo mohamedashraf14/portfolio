@@ -32,8 +32,8 @@ export const projectsData = [
     image: work12,
     title: "Omnifood",
     category: "HTML&CSS",
-    demo: "https://mohamedtarek1911.github.io/Omnifood/",
-    repo: "https://github.com/mohamedtarek1911/Omnifood",
+    demo: "https://mohamedashraf14.github.io/omni",
+    repo: "https://github.com/mohamedashraf14/omni",
   },
 
   {
@@ -41,8 +41,8 @@ export const projectsData = [
     image: Work7,
     title: "Guess My Number",
     category: "JavaScript",
-    demo: "https://mohamedtarek1911.github.io/guess-my-number/",
-    repo: "https://github.com/mohamedtarek1911/guess-my-number",
+    demo: "https://mohamedashraf14.github.io/GMN",
+    repo: "https://github.com/mohamedashraf14/GMN",
   },
 
   {
@@ -50,8 +50,8 @@ export const projectsData = [
     image: work1,
     title: "Bankist",
     category: "Javascript",
-    demo: "https://mohamedtarek1911.github.io/Bankist/",
-    repo: "https://github.com/mohamedtarek1911/Bankist",
+    demo: "https://mohamedashraf14.github.io/bank",
+    repo: "https://github.com/mohamedashraf14/bank",
   },
   {
     id: 10,
@@ -66,32 +66,32 @@ export const projectsData = [
     image: work3,
     title: "CRUDS",
     category: "Javascript",
-    demo: "https://mohamedtarek1911.github.io/C_operations/",
-    repo: "https://github.com/mohamedtarek1911/C_operations",
+    demo: "https://mohamedashraf14.github.io/crud",
+    repo: "https://github.com/mohamedashraf14/crud",
   },
   {
     id: 12,
     image: work4,
     title: "Devfolio",
     category: "HTML&CSS",
-    demo: "https://mohamedtarek1911.github.io/-portoflio/",
-    repo: "https://github.com/mohamedtarek1911/-portoflio",
+    demo: "https://mohamedashraf14.github.io/Devfollio",
+    repo: "https://github.com/mohamedashraf14/Devfollio",
   },
   {
     id: 13,
     image: work13,
     title: "Weather",
     category: "JavaScript",
-    demo: "https://mohamedtarek1911.github.io/weather-now/",
-    repo: "https://github.com/mohamedtarek1911/weather-now",
+    demo: "https://mohamedashraf14.github.io/Weather",
+    repo: "https://github.com/mohamedashraf14/Weather",
   },
   {
     id: 14,
     image: work14,
     title: "Yummi",
     category: "JavaScript",
-    demo: "https://mohamedtarek1911.github.io/weather-now/",
-    repo: "https://github.com/mohamedtarek1911/weather-now",
+    demo: "https://mohamedashraf14.github.io/yummi/",
+    repo: "https://github.com/mohamedashraf14/yummi",
   },
 ];
 

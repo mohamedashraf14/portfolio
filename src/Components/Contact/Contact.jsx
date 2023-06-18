@@ -42,15 +42,10 @@ export default function Contact() {
               <div className="contact__card">
                 <i className="bx bx-location-plus contact__card-icon"></i>
                 <h3 className="contact__card-title">Location</h3>
-                <span className="contact__card-data">Zahraa El Maadi,Cairo,Egypt</span>
-                <a
-                  target={"_blank"}
-                
-                  className="contact__button"
-                >
-                  My location{" "}
-                  <i className="bx bx-right-arrow-alt contact__button-icon"></i>
-                </a>
+                <span className="contact__card-data">
+                  Zahraa El Maadi,Cairo,Egypt
+                </span>
+                <a target={"_blank"} className="contact__button"></a>
               </div>
             </div>
           </div>

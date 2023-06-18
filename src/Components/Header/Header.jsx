@@ -101,7 +101,7 @@ function Header() {
               </li>
               <li className="nav__item">
                 <a
-                  href="#portfolio"
+                  href="https://www.docdroid.net/xxKKkRi/mohamed-ashraf-ali-resume-06-06-2023-13-53-07-pdf"
                   onClick={() => {
                     setActiveNav("#portfolio");
                   }}
@@ -110,8 +110,9 @@ function Header() {
                       ? "nav__link nav__active"
                       : "nav__link "
                   }
+                  target={"blank"}
                 >
-                  <i className="uil uil-scenery nav__icon"></i>Portfolio
+                  <i className="uil uil-scenery nav__icon"></i>CV
                 </a>
               </li>
               <li className="nav__item">

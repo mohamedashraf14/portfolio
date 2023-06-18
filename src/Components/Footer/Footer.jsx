@@ -14,8 +14,12 @@ export default function Footer() {
               </a>
             </li>
             <li>
-              <a href="#portfolio" className="footer__link">
-                Portofolio
+              <a
+                href="https://www.docdroid.net/xxKKkRi/mohamed-ashraf-ali-resume-06-06-2023-13-53-07-pdf"
+                className="footer__link"
+                target={"blank"}
+              >
+                CV
               </a>
             </li>
             <li>
@@ -25,16 +29,15 @@ export default function Footer() {
             </li>
           </ul>
           <div className="footer__social">
-            
             <a
-              href="https://github.com/mohamedtarek1911"
+              href="https://github.com/mohamedashraf14"
               target={"_blank"}
               className="footer__social-link"
             >
               <i class="uil uil-github-alt"></i>
             </a>
             <a
-              href="https://www.linkedin.com/in/mohamed-tarek-246084250/"
+              href="https://www.linkedin.com/in/mohamedashrafali"
               target={"_blank"}
               className="footer__social-link"
             >

@@ -4,16 +4,15 @@ export default function Social() {
   return (
     <>
       <div className="home__social">
-        
         <a
-          href="https://github.com/mohamedtarek1911"
+          href="https://github.com/mohamedashraf14"
           target={"_blank"}
           className="home__social-icon"
         >
           <i class="uil uil-github-alt"></i>
         </a>
         <a
-          href="https://www.linkedin.com/in/mohamed-tarek-246084250/"
+          href="https://www.linkedin.com/in/mohamedashrafali"
           target={"_blank"}
           className="home__social-icon"
         >
