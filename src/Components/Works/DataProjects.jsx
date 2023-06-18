@@ -53,14 +53,14 @@ export const projectsData = [
     demo: "https://mohamedashraf14.github.io/bank",
     repo: "https://github.com/mohamedashraf14/bank",
   },
-  {
-    id: 10,
-    image: work10,
-    title: "Notes",
-    category: "React",
-    demo: "https://mohamedashraf14.github.io/notes/",
-    repo: "https://github.com/mohamedashraf14/notes/tree/master",
-  },
+  // {
+  //   id: 10,
+  //   image: work10,
+  //   title: "Notes",
+  //   category: "React",
+  //   demo: "https://mohamedashraf14.github.io/notes/",
+  //   repo: "https://github.com/mohamedashraf14/notes/tree/master",
+  // },
   {
     id: 11,
     image: work3,
