@@ -15,7 +15,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.docdroid.net/xxKKkRi/mohamed-ashraf-ali-resume-06-06-2023-13-53-07-pdf"
+                href="https://drive.google.com/file/d/1Hdphy1VgDM6ClmUWjOTsfsnXmCsEn_5K/view"
                 className="footer__link"
                 target={"blank"}
               >
